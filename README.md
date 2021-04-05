@@ -1,10 +1,10 @@
 # SocketPerros
 
-###En este programa lograrás:
+En este programa lograrás:
 -crear  un caso ya sea por robo,perdida,Pérdida,abandono,animal,peligroso,manejo indebido en via publica.
 -lograr contactar con un agente para posteriormente chatear y preguntar lo que desee respecto a las mascotas
 
-####Como usar el programa:
+Como usar el programa:
 1.Prender el servidor que es: capitalizeServer
 2.Seguido a esto correrás el Capitalizer
 3.Correr luego el CapitalizerCliente
